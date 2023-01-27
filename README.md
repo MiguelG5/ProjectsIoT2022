@@ -1,13 +1,13 @@
-# ProjectsIoT2022
+# *****
 
 ## Integrantes
-- Nombre y Apellidos del primer integrante
-- Nombre y Apellidos del segundo integrante
-- Nombre y Apellidos del tercer integrante
-- Nombre y Apellidos del cuarto integrante
+- Jaime Garcia Miguel Angel
+- Navarro Grifaldo Filiberto
+- Ramirez Campos Juna de Dios
+- Anastacio Nava Miguel Angel
 
 ## Objetivo general
-Parrafo con el objetivo general
+Inivar
 ### Objetivos específicos
 - Elemento 1 de la lista de objetivos específicos
 - Elemento 2 de la lista de objetivos específicos
