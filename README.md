@@ -2,9 +2,9 @@
 
 ## Integrantes
 - Juan de Dios Ramirez Campos
-- Nombre y Apellidos del segundo integrante
-- Nombre y Apellidos del tercer integrante
-- Nombre y Apellidos del cuarto integrante
+- Miguel Angel Anastacio Nava
+- Miguel Angel Jaime Garcia
+- Filiberto Navarro Grifaldo
 
 ## Objetivo general
 Desarrollar una aplicación que nos muestre el peso de cualquier material que quiera, mostrando así un mensaje en la aplicación el cual diga cual es el peso del material que ha querido saber la persona, además de dar una recompensa dependio de la cantidad.
