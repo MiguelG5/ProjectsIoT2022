@@ -27,8 +27,8 @@ Desarrollar una aplicación que nos muestre el peso de cualquier material que qu
 | 1  |   ESP32    | El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos|![image](https://user-images.githubusercontent.com/99991865/192933367-82d60a6b-83a0-4d76-9aa7-742fb42d2d3c.png)|   1      |   165     
 | 2  |Protoboard  |es un tablero con orificios que se encuentran conectados eléctricamente entre sí de manera interna, habitualmente siguiendo patrones de líneas, en el cual se pueden insertar componentes electrónicos, cables para el armado|![image](https://user-images.githubusercontent.com/99991865/192933683-d1955de9-b1fa-4063-8218-b822c8b7eedf.png)|   1      |     110        |
 | 3 |Cables     |sirve para conectar todos los compenetes a la protoboard|![image](https://user-images.githubusercontent.com/99991865/192934122-6938a1d7-55a6-4caa-85c9-80a27cf06301.png)|   5      |    55        |
-| 4 |Gravity: Digital Weight Sensor     |sirve para capturar el peso de todos los materiales encima de el |(![image](https://user-images.githubusercontent.com/99991865/217880977-53f521d4-0eec-4b56-b4bb-4238ed6366e4.png)|   1    |    303.46      |
-| 5 | Pantalla Led    |sirve para mostrar el peso de todos los materiales encima de el |(![image](https://user-images.githubusercontent.com/99991865/217882737-091d4989-5d35-4005-9cce-7e729f76f608.png))|   1    |    200      |
+| 4 |Gravity: Digital Weight Sensor     |sirve para capturar el peso de todos los materiales encima de el |![image](https://user-images.githubusercontent.com/99991865/217880977-53f521d4-0eec-4b56-b4bb-4238ed6366e4.png)|   1    |    303.46      |
+| 5 | Pantalla Led    |sirve para mostrar el peso de todos los materiales encima de el |![image](https://user-images.githubusercontent.com/99991865/217882737-091d4989-5d35-4005-9cce-7e729f76f608.png)|   1    |    200      |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - El proyecto debe detectar si hay pueso algo encima
