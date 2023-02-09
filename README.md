@@ -44,6 +44,6 @@ Desarrollar una aplicación que nos muestre el peso de cualquier material que qu
 | 3  | Funcionalidad de la pantalla          | Media         |  0.3          | Marcar el peso del materian en la pantalla             |   integrantes del equipo          |
 
 ## Prototipo en dibujo
-- Coloca la fotografia de tu prototipo dibujado a lapiz
+![image](https://user-images.githubusercontent.com/99991865/217930030-95d1b87b-7e5f-4ade-9730-78373366e5a6.png)
 
 
