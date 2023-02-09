@@ -13,8 +13,6 @@ Desarrollar una aplicación que nos muestre el peso de cualquier material que qu
 - 2.- Conocer y utilizar los códigos deArduino Uno para el óptimofuncionamiento del la pesa.
 - 3.- Conocer los principios, elementos y aplicaciones básicas de distintos sistemas de control eléctricos.
 - 4.- Representar a través de un sensor de peso la medición del material.
-...
-- Elemento n de la lista de objetivos específicos
 
 ## Tabla de Software utilizado
 | id |  Software          |  Versión  |  Tipo  |
@@ -26,8 +24,9 @@ Desarrollar una aplicación que nos muestre el peso de cualquier material que qu
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|    |            |             |        |          |             |
-|    |            |             |        |          |             |
+| 1  |   ESP32    | El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos|![image](https://user-images.githubusercontent.com/99991865/192933367-82d60a6b-83a0-4d76-9aa7-742fb42d2d3c.png)|   1      |   165     
+| 2  |Protoboard  |es un tablero con orificios que se encuentran conectados eléctricamente entre sí de manera interna, habitualmente siguiendo patrones de líneas, en el cual se pueden insertar componentes electrónicos, cables para el armado|![image](https://user-images.githubusercontent.com/99991865/192933683-d1955de9-b1fa-4063-8218-b822c8b7eedf.png)|   1      |     110        |
+| 2 |Cables     |sirve para conectar todos los compenetes a la protoboard|![image](https://user-images.githubusercontent.com/99991865/192934122-6938a1d7-55a6-4caa-85c9-80a27cf06301.png)|   5      |    55        |
 |    |            |             |        |          |             |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
