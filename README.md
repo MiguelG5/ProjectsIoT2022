@@ -17,11 +17,11 @@ Desarrollar una aplicación que nos muestre el peso de cualquier material que qu
 - Elemento n de la lista de objetivos específicos
 
 ## Tabla de Software utilizado
-| Id | Software | Version | Tipo |
-|----|----------|---------|------|
-|    |          |         |      |
-|    |          |         |      |
-|    |          |         |      |
+| id |  Software          |  Versión  |  Tipo  |
+|----|--------------------|-----------|--------|
+|  1 | Visual Studio Code |  1.71.2   |  IDE   |
+|  2 | Android Studio     |  2021.3   |  IDE   |
+|  3 | Arduino IDE        |  2.0.3    |  IDE   |
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
