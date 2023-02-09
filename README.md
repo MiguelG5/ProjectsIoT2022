@@ -7,7 +7,7 @@
 - Nombre y Apellidos del cuarto integrante
 
 ## Objetivo general
-Parrafo con el objetivo general
+Desarrollar una aplicación que nos muestre el peso de cualquier material que quiera, mostrando así un mensaje en la aplicación el cual diga cual es el peso del material que ha querido saber la persona, además de dar una recompensa dependio de la cantidad.
 ### Objetivos específicos
 - Elemento 1 de la lista de objetivos específicos
 - Elemento 2 de la lista de objetivos específicos
