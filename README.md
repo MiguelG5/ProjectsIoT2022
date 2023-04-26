@@ -45,5 +45,9 @@ Desarrollar una aplicación que nos muestre el peso de cualquier material que qu
 
 ## Prototipo en dibujo
 ![image](https://user-images.githubusercontent.com/99991865/217930030-95d1b87b-7e5f-4ade-9730-78373366e5a6.png)
+## Prototipo Terminado
+![image](https://user-images.githubusercontent.com/99991865/234675405-18af4162-0e34-4b37-b0dd-b8905bc04485.png)
+![image](https://user-images.githubusercontent.com/99991865/234675428-c3a604fd-ecdb-405e-a598-e209831bab7e.png)
+![image](https://user-images.githubusercontent.com/99991865/234675458-ec694c1b-963b-4ac1-aecb-c05b03d9721a.png)
 
 
